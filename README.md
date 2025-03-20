@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 Slowloris DoS Attack Tool (Educational Purpose Only)
 
 This is a Python implementation of a Slowloris DoS attack tool, created for educational and research purposes only. This tool demonstrates how Slowloris attacks work and can be used for learning about network security and DoS attack prevention.
@@ -76,6 +76,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
-=======
-# slowloris-dos
+slowloris-dos
 >>>>>>> 3e85cd93eca1ce20793078eedd69fd555f86212b
