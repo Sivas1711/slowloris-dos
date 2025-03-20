@@ -25,7 +25,7 @@ Installation
 
 1. Clone this repository:
 bash
-git clone https://github.com/YOUR_USERNAME/slowloris-dos.git
+git clone https://github.com/Sivas1711/slowloris-dos.git
 cd slowloris-dos
 
 
